@@ -32,7 +32,7 @@
                         <div>
                             ${articleAbstract}
                         </div>
-                        <#if msg??>
+                        <#if msg>
                         <div>${msg}</div>
                         </#if>
                         <form method="POST" action="${servePath}/console/article-pwd">

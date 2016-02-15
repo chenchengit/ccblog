@@ -120,16 +120,6 @@
                 </div>
             </div>
 
-            <div class="footerWrapper">
-                <div class="footer">
-                    &copy; ${year}
-                    Powered by
-                    <a href="http://b3log.org" target="_blank">
-                        ${b3logLabel}&nbsp;
-                        <span class="solo">Solo</span></a>,
-                    ver ${version}
-                </div>
-            </div>
         </div>
         <script type="text/javascript" src="${staticServePath}/js/lib/jquery/jquery.min.js" charset="utf-8"></script>
         <script type="text/javascript">
